@@ -31,36 +31,27 @@ This analysis addresses key factors influencing Airbnb bookings in NYC. Inspired
 
 ## **EDA & Visualizations**
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
+<!-- First line -->
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/1d3e0297-1a59-49a8-a53f-726c444cbb87" width="45%">
+    <img src="https://github.com/user-attachments/assets/90ca4c23-cb8d-4993-996b-40afbb7348eb" width="45%">
+</p>
 
-  <!-- First Row -->
-  <div style="display: flex; width: 100%; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/4f08155a-ecd5-4cd5-93e3-947c8a69a0b3" alt="bar_top_host_ids" style="width: 49%; height: auto;">
-    <img src="https://github.com/user-attachments/assets/0ccf39ee-b05a-4a22-94ec-44c11f9b79fc" alt="kde_plots_borough_availability" style="width: 49%; height: auto;">
-  </div>
+<!-- Image on its own line -->
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/734b9334-6366-4704-87e6-3416abc37671" width="90%">
+</p>
 
-  <!-- Second Row (Single Image) -->
-  <div style="display: flex; width: 100%; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/dd5c478f-3231-4cfc-853e-ed320f38ff94" alt="violin_prices_by_room_borough" style="width: 98%; height: auto;">
-  </div>
-
-  <!-- Third Row -->
-  <div style="display: flex; width: 100%; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/009eb44a-0018-414a-a40e-05c04be5ecba" alt="lineplot_seasonality_month" style="width: 49%; height: auto;">
-    <img src="https://github.com/user-attachments/assets/95d9eb60-4dcd-4a29-887e-14c0a0e62fe0" alt="barplot_seasonality_year" style="width: 49%; height: auto;">
-  </div>
-
-</div>
+<!-- Third line -->
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/85902aeb-e678-4d10-80b3-4977820be384" width="45%">
+    <img src="https://github.com/user-attachments/assets/9fd646a4-10f9-4151-af3f-a1ba6d3544bf" width="45%">
+</p>
 
 
+[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/iqra.naz/viz/AirbnbAnalysis_17292270230920/Overview)
 
-* [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/iqra.naz/viz/AirbnbAnalysis_17292270230920/Overview)
-
- <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
-  <div style="display: flex; width: 100%; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/e761e8b6-fc31-4cf0-867c-02a4deccd400" alt="tab_dash" style="width: 100%; height: auto;">
-  </div>
-  </div>
+![tab_dash](https://github.com/user-attachments/assets/ca085f6e-fc4b-40d4-a8e8-3be040516d73)
 
 ## ** Business Recommendations:**
 
