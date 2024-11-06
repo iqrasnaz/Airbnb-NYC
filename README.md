@@ -12,6 +12,12 @@ This analysis addresses key factors influencing Airbnb bookings in NYC. Inspired
 * Analyze location and amenities' impact on pricing and demand
 * Study seasonal and listing availability trends
 
+## **Tools & Skills:**
+
+* Excel, Python, MySQL, Tableau
+* Data cleaning, Pandas, Matplotlib, Data Manipulation, Exploratory Data Analysis, Window Functions, CTEs, Data Visualization
+* Acknowledgment: Thank you to Inside Airbnb for providing this public data.
+
 ## **Data Summary:**
 
 * Source: [Inside Airbnb](https://insideairbnb.com/get-the-data/) (2024)
@@ -58,9 +64,3 @@ This analysis addresses key factors influencing Airbnb bookings in NYC. Inspired
 * Host Behavior: Automate responses to improve response rates; workshops for guest service.
 * Neighborhood Marketing: Target popular areas like Bedford-Stuyvesant and Williamsburg, while promoting unique listings in quieter locations.
 * Seasonal Pricing Adjustments: Align prices with demand, particularly in highly rated boroughs (e.g., Manhattan or Brooklyn) and in peak months (August-October).
-
-## **Tools & Skills:**
-
-* Excel, Python, MySQL, Tableau
-* Data cleaning, Pandas, Matplotlib, Data Manipulation, Exploratory Data Analysis, Window Functions, CTEs, Data Visualization
-* Acknowledgment: Thank you to Inside Airbnb for providing this public data.
