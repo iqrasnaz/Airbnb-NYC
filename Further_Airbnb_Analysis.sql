@@ -120,6 +120,8 @@ GROUP BY review_month
 ORDER BY review_month;
 
 -- Shows the average price of Airbnbs per month.
+CREATE INDEX idx_price ON data1 (price);
+
 SELECT EXTRACT(MONTH FROM last_review) AS review_month, 
        AVG(price) AS avg_price
 FROM data1
