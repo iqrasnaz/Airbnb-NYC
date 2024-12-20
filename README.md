@@ -35,7 +35,7 @@ This analysis addresses key factors influencing Airbnb bookings in NYC. Inspired
 
 * Predictive Models: Random Forests predict price and booking success based on features such as host status, location, and guest review scores, etc.
 
-## **EDA & Visualizations**
+## **EDA & Visualizations:**
 
 <!-- First line -->
 <p align="center">
@@ -59,7 +59,7 @@ This analysis addresses key factors influencing Airbnb bookings in NYC. Inspired
 
 ![tab_dash](https://github.com/user-attachments/assets/ca085f6e-fc4b-40d4-a8e8-3be040516d73)
 
-## ** Business Recommendations:**
+## **Business Recommendations:**
 
 * Host Behavior: Automate responses to improve response rates; workshops for guest service.
 * Neighborhood Marketing: Target popular areas like Bedford-Stuyvesant and Williamsburg, while promoting unique listings in quieter locations.
