@@ -4,12 +4,13 @@
 
 ## **Project Overview:** 
 
-This analysis addresses key factors influencing Airbnb bookings in NYC. Inspired by personal travel challenges, this project explores host performance, pricing, guest preferences, and property availability to support better booking decisions.
+This analysis helps NYC Airbnb hosts understand what drives successful bookings and how to optimize their listings for higher occupancy and revenue. Inspired by observing booking trends as both a Data Analyst and a guest, this project aims to equip Airbnb hosts with data-driven strategies to boost bookings, pricing power, and improve guest satisfaction.
 
 ## **Objectives:**
 
 * Identify host traits that drive booking success
 * Analyze location and amenities' impact on pricing and demand
+* Review guest satisfaction
 * Study seasonal and listing availability trends
 
 ## **Tools & Skills:**
@@ -59,7 +60,7 @@ This analysis addresses key factors influencing Airbnb bookings in NYC. Inspired
 
 ![tab_dash](https://github.com/user-attachments/assets/ca085f6e-fc4b-40d4-a8e8-3be040516d73)
 
-## **Business Recommendations:**
+## **Recommendations to NYC Airbnb Hosts:**
 
 * Host Behavior: Automate responses to improve response rates; workshops for guest service.
 * Neighborhood Marketing: Target popular areas like Bedford-Stuyvesant and Williamsburg, while promoting unique listings in quieter locations.
