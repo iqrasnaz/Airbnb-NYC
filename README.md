@@ -56,9 +56,10 @@ This analysis helps NYC Airbnb hosts understand what drives successful bookings 
 </p>
 
 
-[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/iqra.naz/viz/AirbnbAnalysis_17292270230920/Overview)
+[Interactive Tableau Dashboard](https://public.tableau.com/views/AirbnbListingsAnalysis_17555495929400/AirbnbDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![tab_dash](https://github.com/user-attachments/assets/ca085f6e-fc4b-40d4-a8e8-3be040516d73)
+![tab_dash_airbnb](https://github.com/user-attachments/assets/55c8563b-a30b-4344-bf6d-e72f4bfae3a7)
+
 
 ## **Recommendations to NYC Airbnb Hosts:**
 
